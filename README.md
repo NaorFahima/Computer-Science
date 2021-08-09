@@ -1,2 +1,2 @@
-# Introduction-to-Computer-Science
-Introduction to Computer Science projects
+Computer-Science
+Computer Science projects
